@@ -1,0 +1,43 @@
+.contentAdd {
+  border: yellow solid 5px;
+  width: 95%;
+  height: 40%;
+  margin: auto;
+  margin-top: 20px;
+  background-color: rgb(0, 102, 255);
+}
+.branch {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+input {
+  width: 80%;
+  outline: none;
+  border: none;
+  height: 35px;
+  border-radius: 10px;
+
+}
+button {
+  height: 38px;
+  border-radius: 10px;
+  width: 70px;
+  border: none;
+  background-color: rgb(55, 0, 255);
+  color: white;
+  font-weight: 900;
+  margin-left: 20px;
+  border: white 2px solid;
+}
+.headerDiv {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 55px;
+  color: white;
+  font-family: sans-serif;
+}
+.headerDiv p {
+  font-weight: 700;
+}
